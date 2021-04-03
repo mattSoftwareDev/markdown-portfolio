@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of blue dragon](https://avatars.githubusercontent.com/u/81270552?v=4)
